@@ -18,7 +18,7 @@ public class MyFristApp {
     public static void main(String[] args) {
      System.out.println("Hello World");
      System.out.println("Narisa 55025760");
-     System.out.println("Information Technology");
+     System.out.println("Information Technology IT");
      System.out.println("University of Phayao");
         
     }
